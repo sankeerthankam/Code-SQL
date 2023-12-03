@@ -26,6 +26,7 @@ product_category
 product_id  product_category_id
 bigint      smallint
 
+Output
 product_category_id | product_id |      revenue       
 ---------------------+------------+--------------------+---------
                    1 |   10000052 |  4586.589999999999 
