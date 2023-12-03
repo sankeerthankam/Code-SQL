@@ -10,7 +10,7 @@ New	      	4361.57
 Family	  	4226.07			
 Comedy	  	4383.58			
 				
-Table		Structure
+Table Structure
 category  	total_sales
 text      	decimal
 
