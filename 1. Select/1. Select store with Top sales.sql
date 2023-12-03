@@ -1,10 +1,10 @@
 # Table Structure
 # store	manager	total_sales
-# text	text	  numeric
+# text	text	numeric
   
 # Data						
-# store	      manager	      total_sales		
-# Woodridge	  Jon Stephens	33927.04		
+# store		manager		total_sales		
+# Woodridge	Jon Stephens	33927.04		
 # Lethbridge	Mike Hillyer	33489.47				
 
 SELECT 
