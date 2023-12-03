@@ -12,15 +12,15 @@ order_id	product_id	customer_id	order_dt	  qty	unit_price_usd	channel
 
 product_category
 product_id	category_id
-10000000	  3
-10000001	  2
-10000002	  3
+10000000	3
+10000001	2
+10000002	3
 
 
 Table Structure
 orders
-order_id	product_id	customer_id	order_dt	  qty	unit_price_usd	channel
-bigint    bigint      bigint      date        int float           varchar(20)
+order_id	product_id	customer_id	order_dt	qty	unit_price_usd	channel
+bigint    	bigint      	bigint      	date        	int 	float           varchar(20)
 
 product_category
 product_id  product_category_id
