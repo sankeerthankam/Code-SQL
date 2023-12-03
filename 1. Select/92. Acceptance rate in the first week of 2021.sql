@@ -4,13 +4,13 @@ If a friend request is not accepted, the acceptance_dt column is null
 
 Data
 request_id	acceptance_id	request_dt	acceptance_dt	
-100001	    900001	2021-01-01	2021-01-02	
-100002	    null	2021-01-01	null	
-100003	    900002	2021-01-01	2021-01-01	
+100001	    	900001		2021-01-01	2021-01-02	
+100002	    	null		2021-01-01	null	
+100003	    	900002		2021-01-01	2021-01-01	
 				
 Table Structure				
 request_id	acceptance_id	request_dt	acceptance_dt	
-bigint	bigint	date	date	
+bigint		bigint		date		date	
 				
 Output				
 acceptance_rate				
