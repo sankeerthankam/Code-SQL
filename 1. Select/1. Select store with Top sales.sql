@@ -1,7 +1,7 @@
 /* 
 Table Structure
-store	manager	total_sales
-text	text	numeric
+store		manager		total_sales
+text		text		numeric
   
 Data						
 store		manager		total_sales		
