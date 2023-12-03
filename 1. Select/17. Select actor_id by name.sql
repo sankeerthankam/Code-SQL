@@ -5,10 +5,10 @@ Actor's first_name and last_name are all stored as UPPER case in our database, a
 Data					
 actor_id	first_name	last_name			
 1	        PENELOPE	GUINESS			
-2	NICK	WAHLBERG			
-3	ED	CHASE			
-4	JENNIFER	DAVIS			
-5	JOHNNY	LOLLOBRIGIDA			
+2		NICK		WAHLBERG			
+3		ED		CHASE			
+4		JENNIFER	DAVIS			
+5		JOHNNY		LOLLOBRIGIDA			
 					
 actor_id	first_name	last_name			
 integer	text	text			
