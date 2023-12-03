@@ -2,10 +2,6 @@
 Write a query to find the top 3 film categories that generated the most sales.				
 The order of your results doesn't matter.				
 
-Table		Structure
-category  	total_sales
-text      	decimal
-
 Data      
 category	total_sales			
 Sports	  	5314.21			
@@ -14,6 +10,10 @@ New	      	4361.57
 Family	  	4226.07			
 Comedy	  	4383.58			
 				
+Table		Structure
+category  	total_sales
+text      	decimal
+
 Output				
 category				
 Category 1				
